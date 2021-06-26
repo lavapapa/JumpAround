@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lavapapa.jumparound.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lavapapa.jumparound.MyBundle
 
 class MyApplicationService {
 
